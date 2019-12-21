@@ -10,5 +10,5 @@ API do aplicativo feito com Laravel.
 -   [x] Endpoint para criar um nota.
 -   [x] Endpoint para mostrar **somente** uma nota.
 -   [x] Endpoint para atualizar uma nota.
--   [ ] Endpoint para deletar uma nota.
--   [ ] Finalizar
+-   [x] Endpoint para deletar uma nota.
+-   [x] Finalizar
