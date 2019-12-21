@@ -8,3 +8,4 @@ API do aplicativo feito com Laravel.
 -   [x] Criar um recurso para Notas
 -   [x] Endpoint para listar notas
 -   [x] Endpoint para criar notas
+-   [x] Endpoint para mostrar **somente** uma rota.
