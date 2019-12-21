@@ -2,10 +2,13 @@
 
 API do aplicativo feito com Laravel.
 
-## Lista de tarefas
+## Lista de tarefas obrigatórias
 
--   [x] Iniciar o projeto
--   [x] Criar um recurso para Notas
--   [x] Endpoint para listar notas
--   [x] Endpoint para criar notas
--   [x] Endpoint para mostrar **somente** uma rota.
+-   [x] Iniciar o projeto.
+-   [x] Iniciar o CRUD de notas.
+-   [x] Endpoint para listar várias notas.
+-   [x] Endpoint para criar um nota.
+-   [x] Endpoint para mostrar **somente** uma nota.
+-   [x] Endpoint para atualizar uma nota.
+-   [ ] Endpoint para deletar uma nota.
+-   [ ] Finalizar

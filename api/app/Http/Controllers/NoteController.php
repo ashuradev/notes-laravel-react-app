@@ -48,17 +48,6 @@ class NoteController extends Controller
     }
 
     /**
-     * Show the form for editing the specified resource.
-     *
-     * @param  \App\Note  $note
-     * @return \Illuminate\Http\Response
-     */
-    public function edit(Note $note)
-    {
-        //
-    }
-
-    /**
      * Update the specified resource in storage.
      *
      * @param  \Illuminate\Http\Request  $request
@@ -67,7 +56,11 @@ class NoteController extends Controller
      */
     public function update(Request $request, Note $note)
     {
-        //
+        $note->update(
+            $request->all()
+        );
+
+        return new NoteResource($note);
     }
 
     /**
