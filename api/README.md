@@ -7,4 +7,4 @@ API do aplicativo feito com Laravel.
 -   [x] Iniciar o projeto
 -   [x] Criar um recurso para Notas
 -   [x] Endpoint para listar notas
--   [] Endpoint para criar notas
+-   [x] Endpoint para criar notas
